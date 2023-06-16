@@ -1,0 +1,35 @@
+{
+  "7": {
+    "id_album": "2",
+    "nome": "feste",
+    "hashtags": [
+      "#feste",
+      "#celebrazioni",
+      "#amicizia"
+    ],
+    "data_creazione": "2022-12-24T20:30:00",
+    "data_eliminazione": "2023-06-16T13:53:59"
+  },
+  "8": {
+    "id_album": "1",
+    "nome": "feste",
+    "hashtags": [
+      "#feste",
+      "#celebrazioni",
+      "#amicizia"
+    ],
+    "data_creazione": "2022-12-24T20:30:00",
+    "data_eliminazione": "2023-06-16T13:49:09"
+  },
+  "9": {
+    "id_album": "2",
+    "nome": "feste",
+    "hashtags": [
+      "#feste",
+      "#celebrazioni",
+      "#amicizia"
+    ],
+    "data_creazione": "2022-12-24T20:30:00",
+    "data_eliminazione": "2023-06-16T13:54:21"
+  }
+}

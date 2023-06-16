@@ -1,0 +1,52 @@
+{
+  "2": {
+    "id_album": "0",
+    "nome": "montagna",
+    "hashtags": [
+      "#montagna",
+      "#natura",
+      "#escursioni"
+    ],
+    "data_creazione": "2023-04-15T14:45:00"
+  },
+  "3": {
+    "id_album": "0",
+    "nome": "città",
+    "hashtags": [
+      "#città",
+      "#viaggi",
+      "#architettura"
+    ],
+    "data_creazione": "2023-03-10T09:20:00"
+  },
+  "4": {
+    "id_album": "1",
+    "nome": "animali",
+    "hashtags": [
+      "#animali",
+      "#natura",
+      "#fauna"
+    ],
+    "data_creazione": "2023-02-18T16:55:00"
+  },
+  "5": {
+    "id_album": "1",
+    "nome": "arte",
+    "hashtags": [
+      "#arte",
+      "#cultura",
+      "#pittura"
+    ],
+    "data_creazione": "2023-01-05T11:10:00"
+  },
+  "6": {
+    "id_album": "1",
+    "nome": "feste",
+    "hashtags": [
+      "#feste",
+      "#celebrazioni",
+      "#amicizia"
+    ],
+    "data_creazione": "2022-12-24T20:30:00"
+  }
+}

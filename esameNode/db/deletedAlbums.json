@@ -1,0 +1,26 @@
+{
+  "2": {
+    "nome": "viaggio in Japan",
+    "fotografie": [
+      "7",
+      "8",
+      "9"
+    ],
+    "hashtags": [
+      "#giappone",
+      "#viaggio",
+      "#tokyo"
+    ],
+    "data_creazione": "2023-04-15T14:45:00",
+    "lastupdate": "2023-06-16T11:47:42",
+    "data_eliminazione": "2023-06-16T13:54:21"
+  },
+  "id_album": "1",
+  "nome": "bottiglie",
+  "hashtags": [
+    "#feste",
+    "#amicizia"
+  ],
+  "data_creazione": "2023-06-16T13:02:13",
+  "lastupdate": "2023-06-16T13:09:43"
+}
